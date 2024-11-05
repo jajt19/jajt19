@@ -1,17 +1,17 @@
 **👋 ¡Hola! Soy Jorge Jaime**  
 **Analista de Datos | Ingeniero Petrolero**
-<!-- Banner de bienvenida en la industria petrolera -->
+<!-- Banner creativo de bienvenida -->
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/1E3A8A/FFFFFF?text=Explotaci%C3%B3n+de+Datos+en+la+Industria+Petrolera" alt="Banner de Datos Industriales en la Industria Petrolera" width="800" />
+  <img src="https://img.shields.io/badge/Explotaci%C3%B3n+de+Datos+en+la+Industria+Petrolera+%26+Energ%C3%A9tica-FFD700?style=flat&logo=industry&logoColor=black" alt="Banner de datos y energía" width="800"/>
 </div>
 
 <h2 align="center">
-  Optimización de Operaciones Energéticas con Análisis de Datos Avanzados
+  Revolucionando la Explotación de Datos en la Industria Petrolera y Energética
 </h2>
 
 <p align="center">
-  Soy Jorge Jaime - Analista de Datos | Ingeniero Petrolero<br>
-  Transformando la industria energética a través del poder de los datos.
+  Soy Jorge Jaime - <em>Analista de Datos | Ingeniero Petrolero</em><br>
+  Impulsando la eficiencia energética mediante la ciencia de datos y la innovación tecnológica.
 </p>
 
 <p align="center">
