@@ -2,11 +2,11 @@
 **Analista de Datos | Ingeniero Petrolero**
 <!-- Banner épico de bienvenida -->
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/1E3A8A/FFFFFF?text=Explotación+de+Datos+en+la+Industria+Energética" alt="Banner industrial energético" width="800"/>
+  <img src="https://via.placeholder.com/800x200/1E3A8A/FFFFFF?text=Explotaci%C3%B3n+de+Datos+en+la+Industria+Energ%C3%A9tica" alt="Banner industrial energético" width="800"/>
 </div>
 
 <h2 align="center">
-  <span style="font-size: 2em; color: #1E3A8A;">⚡ ¡Explorando y analizando datos para la industria energética y petrolera! ⚡</span>
+  <span style="font-size: 2em; color: #1E3A8A;">⚡ Explotación de Datos en la Industria Energética y Petrolera ⚡</span>
 </h2>
 
 <p align="center">
