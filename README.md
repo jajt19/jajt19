@@ -1,13 +1,8 @@
 **👋 ¡Hola! Soy Jorge Jaime**  
 **Analista de Datos | Ingeniero Petrolero**
-<!-- Banner épico de bienvenida con imágenes relacionadas con la industria petrolera -->
+<!-- Banner épico de bienvenida -->
 <div align="center">
   <img src="https://via.placeholder.com/800x200/1E3A8A/FFFFFF?text=Explotaci%C3%B3n+de+Datos+en+la+Industria+Energ%C3%A9tica" alt="Banner industrial energético" width="800"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Torre_de_Perforación-000000?style=flat&logo=appveyor&logoColor=white" alt="Torre de Perforación" width="100"/>
-  <img src="https://img.shields.io/badge/Broca-FF6347?style=flat&logo=github&logoColor=white" alt="Broca" width="100"/>
-  <img src="https://img.shields.io/badge/Plataforma-007ACC?style=flat&logo=linkedin&logoColor=white" alt="Plataforma Petrolera" width="100"/>
-  <img src="https://img.shields.io/badge/Pumpjack-00D084?style=flat&logo=twitter&logoColor=white" alt="Pumpjack" width="100"/>
 </div>
 
 <h2 align="center">
