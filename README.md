@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy Jorge Jaime Analista de Datos | Ingeniero Petrolero
+**👋 ¡Hola! Soy Jorge Jaime Analista de Datos | Ingeniero Petrolero**
 
 Soy un apasionado Ingeniero Petrolero con experiencia en la industria de petróleo y gas, especializado en técnicas avanzadas para la extracción de crudo pesado. He adquirido sólidos conocimientos en ingeniería operativa y coordinación de producción, enfocándome en la Recuperación Mejorada de Petróleo (EOR), especialmente mediante Calefacción por Inducción Electromagnética. Esta experiencia me ha llevado a comprender la importancia del análisis de datos en la optimización de operaciones energéticas.
 
