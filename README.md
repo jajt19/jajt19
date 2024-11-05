@@ -39,6 +39,23 @@ Soy un apasionado Ingeniero Petrolero con experiencia en la industria de petról
 
 ---
 
+### 💼 SKILLS
+
+- 🔍 **Producción** en reservorios de petróleo ligero, pesado y extra-pesado
+- ⚙️ **Control de operaciones** y gestión de procesos de producción
+- 📊 **Análisis de datos** usando bibliotecas clave como 
+  - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-007C92?style=for-the-badge&logo=matplotlib&logoColor=white) 
+  - ![Seaborn](https://img.shields.io/badge/Seaborn-5D76CB?style=for-the-badge&logo=seaborn&logoColor=white) 
+  - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+  para cálculos numéricos avanzados
+- 🗄️ **SQL** y 📈 **Tableau** para gestión y visualización de datos
+- 🌐 **Inglés avanzado** (hablado y escrito)
+- 🤝 **Gestión de proyectos** y **equipos**
+- 💧 **Tratamiento de agua potable** y **aguas residuales** aplicando soluciones técnicas y ambientales sostenibles
+
+---
+
 ### 📫 Contacto
 
 Si deseas saber más sobre mis proyectos o discutir posibles colaboraciones, no dudes en contactarme a través de LinkedIn [aquí](https://www.linkedin.com/in/jorge-andres-jaime-tafur/) o correo [jajt.19@hotmail.com](mailto:jajt.19@hotmail.com).
