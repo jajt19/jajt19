@@ -77,4 +77,9 @@ Soy un apasionado Ingeniero Petrolero con experiencia en la industria de petról
 
 ### 📫 Contacto
 
-Si deseas saber más sobre mis proyectos o discutir posibles colaboraciones, no dudes en contactarme a través de LinkedIn [aquí](https://www.linkedin.com/in/jorge-andres-jaime-tafur/) o correo [jajt.19@hotmail.com](mailto:jajt.19@hotmail.com).
+Si deseas saber más sobre mis proyectos o discutir posibles colaboraciones, no dudes en contactarme a través de:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-andres-jaime-tafur/)
+[![Correo](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:jajt.19@hotmail.com)
+
+¡Conectemos! 🚀
