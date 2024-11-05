@@ -43,7 +43,7 @@ Soy un apasionado Ingeniero Petrolero con experiencia en la industria de petról
 *Descripción:* Exploración de patrones de compra y comportamiento de los clientes en la plataforma de comestibles Instacart, incluyendo el procesamiento y análisis de datos de pedidos y productos.  
 *Pasos Clave:* Limpieza y preprocesamiento de datos, incluyendo tratamiento de valores nulos y duplicados. Análisis de frecuencia de pedidos y productos más reordenados. Visualización de datos para identificar tendencias de consumo.  
 *Tecnologías:* Python, Pandas, Matplotlib.  
-🔗 [Ver Proyecto en GitHub](aquí puedes agregar el enlace a tu repositorio)
+🔗 [Ver Proyecto en GitHub](a[quí puedes agregar el enlace a tu repositorio](https://github.com/jajt19/llenemos-este-carrito-))
 
 ---
 
