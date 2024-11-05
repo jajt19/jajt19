@@ -2,16 +2,16 @@
 **Analista de Datos | Ingeniero Petrolero**
 <!-- Banner épico de bienvenida -->
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/FF5733/FFFFFF?text=¡Bienvenido+a+la+aventura!" alt="Banner épico" width="800"/>
+  <img src="https://via.placeholder.com/800x200/1E3A8A/FFFFFF?text=Explotación+de+Datos+en+la+Industria+Energética" alt="Banner industrial energético" width="800"/>
 </div>
 
 <h2 align="center">
-  <span style="font-size: 2em; color: #FF5733;">🚀 ¡Bienvenido a mi espacio de innovación y datos! 🚀</span>
+  <span style="font-size: 2em; color: #1E3A8A;">⚡ ¡Explorando y analizando datos para la industria energética y petrolera! ⚡</span>
 </h2>
 
 <p align="center">
-  <strong style="font-size: 1.5em; color: #2E86C1;">Soy Jorge Jaime</strong> - <em>Analista de Datos & Ingeniero Petrolero</em><br>
-  <i>Transformando el sector energético con el poder de los datos y la innovación.</i>
+  <strong style="font-size: 1.5em; color: #FF6347;">Soy Jorge Jaime</strong> - <em>Analista de Datos | Ingeniero Petrolero</em><br>
+  <i>Transformando la industria energética con la ciencia de datos y optimización de procesos.</i>
 </p>
 
 <p align="center">
