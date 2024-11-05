@@ -1,22 +1,25 @@
 **👋 ¡Hola! Soy Jorge Jaime**  
 **Analista de Datos | Ingeniero Petrolero**
-<!-- Banner de bienvenida en la industria energética y petrolera -->
+<!-- Banner de bienvenida en la industria petrolera -->
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/1E3A8A/FFFFFF?text=Explotaci%C3%B3n+de+Datos+en+la+Industria+Petrolera" alt="Banner de datos industriales en la industria petrolera" width="800"/>
+  <img src="https://via.placeholder.com/800x200/1E3A8A/FFFFFF?text=Explotaci%C3%B3n+de+Datos+en+la+Industria+Petrolera" alt="Banner de Datos Industriales en la Industria Petrolera" width="800" />
 </div>
 
 <h2 align="center">
-  Revolucionando la Explotación de Datos en la Industria Petrolera y Energética
+  Optimización de Operaciones Energéticas con Análisis de Datos Avanzados
 </h2>
 
 <p align="center">
   Soy Jorge Jaime - Analista de Datos | Ingeniero Petrolero<br>
-  Impulsando la eficiencia y optimización de operaciones energéticas mediante análisis de datos avanzados.
+  Transformando la industria energética a través del poder de los datos.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL Badg
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL Badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Badge" />
+</p>
+
 
 Soy un apasionado Ingeniero Petrolero con experiencia en la industria de petróleo y gas, especializado en técnicas avanzadas para la extracción de crudo pesado. He adquirido sólidos conocimientos en ingeniería operativa y coordinación de producción, enfocándome en la Recuperación Mejorada de Petróleo (EOR), especialmente mediante Calefacción por Inducción Electromagnética. Esta experiencia me ha llevado a comprender la importancia del análisis de datos en la optimización de operaciones energéticas.
 
