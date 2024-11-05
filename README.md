@@ -1,5 +1,23 @@
 **👋 ¡Hola! Soy Jorge Jaime**  
 **Analista de Datos | Ingeniero Petrolero**
+<!-- Banner de bienvenida -->
+<div align="center">
+  <img src="https://via.placeholder.com/800x200/4CAF50/FFFFFF?text=Bienvenido+a+mi+perfil" alt="Banner" width="800"/>
+</div>
+
+<h2 align="center">¡Hola! Soy Jorge Jaime, Analista de Datos e Ingeniero Petrolero</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL Badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Badge" />
+</p>
+
+<p align="center">
+  <strong>Ingeniero Petrolero | Experto en Análisis de Datos</strong>
+  <br>Optimización de procesos y soluciones estratégicas en el sector energético
+</p>
+
 
 Soy un apasionado Ingeniero Petrolero con experiencia en la industria de petróleo y gas, especializado en técnicas avanzadas para la extracción de crudo pesado. He adquirido sólidos conocimientos en ingeniería operativa y coordinación de producción, enfocándome en la Recuperación Mejorada de Petróleo (EOR), especialmente mediante Calefacción por Inducción Electromagnética. Esta experiencia me ha llevado a comprender la importancia del análisis de datos en la optimización de operaciones energéticas.
 
