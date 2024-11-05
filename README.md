@@ -37,7 +37,7 @@ Soy un apasionado Ingeniero Petrolero con experiencia en la industria de petról
 *Descripción:* Análisis de datos de visitas, pedidos y gastos de marketing de la plataforma Showz. Se identificaron las plataformas más efectivas y se generaron recomendaciones para maximizar el retorno de inversión (ROI).  
 *Principales Métricas Calculadas:* Tasa de conversión y costo por adquisición (CAC). Análisis de retención y fidelización de usuarios. Valor de tiempo de vida del cliente (LTV).  
 *Tecnologías:* Python, Pandas, Matplotlib, Seaborn.  
-🔗 [Ver Proyecto en GitHub](aquí puedes agregar el enlace a tu repositorio)
+🔗 [Ver Proyecto en GitHub]([aquí puedes agregar el enlace a tu repositorio](https://github.com/jajt19/Showz-pryecto/blob/main/README.md))
 
 **Análisis de Compras en Línea (Instacart)**  
 *Descripción:* Exploración de patrones de compra y comportamiento de los clientes en la plataforma de comestibles Instacart, incluyendo el procesamiento y análisis de datos de pedidos y productos.  
