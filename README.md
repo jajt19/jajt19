@@ -1,17 +1,17 @@
 **👋 ¡Hola! Soy Jorge Jaime**  
 **Analista de Datos | Ingeniero Petrolero**
-<!-- Banner épico de bienvenida -->
+<!-- Banner creativo de bienvenida -->
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/1E3A8A/FFFFFF?text=Explotaci%C3%B3n+de+Datos+en+la+Industria+Energ%C3%A9tica" alt="Banner industrial energético" width="800"/>
+  <img src="https://img.shields.io/badge/Explorando+Datos+en+la+Industria+Energ%C3%A9tica-FF5722?style=flat&logo=rocket&logoColor=white" alt="Banner de datos y energía" width="800"/>
 </div>
 
 <h2 align="center">
-  <span style="font-size: 2em; color: #1E3A8A;">⚡ Explotación de Datos en la Industria Energética y Petrolera ⚡</span>
+  <span style="font-size: 2em; color: #FF5722;">⚡ Revolucionando la Explotación de Datos en la Industria Energética ⚡</span>
 </h2>
 
 <p align="center">
-  <strong style="font-size: 1.5em; color: #FF6347;">Soy Jorge Jaime</strong> - <em>Analista de Datos | Ingeniero Petrolero</em><br>
-  <i>Transformando la industria energética con la ciencia de datos y optimización de procesos.</i>
+  <strong style="font-size: 1.5em; color: #00BCD4;">Soy Jorge Jaime</strong> - <em>Analista de Datos | Ingeniero Petrolero</em><br>
+  <i>Impulsando la eficiencia energética mediante la ciencia de datos y la innovación tecnológica.</i>
 </p>
 
 <p align="center">
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL Badge" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Badge" />
 </p>
+
 
 Soy un apasionado Ingeniero Petrolero con experiencia en la industria de petróleo y gas, especializado en técnicas avanzadas para la extracción de crudo pesado. He adquirido sólidos conocimientos en ingeniería operativa y coordinación de producción, enfocándome en la Recuperación Mejorada de Petróleo (EOR), especialmente mediante Calefacción por Inducción Electromagnética. Esta experiencia me ha llevado a comprender la importancia del análisis de datos en la optimización de operaciones energéticas.
 
