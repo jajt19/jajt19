@@ -33,6 +33,19 @@ Soy un apasionado Ingeniero Petrolero con experiencia en la industria de petról
 
 #### 🚀 Proyectos de Análisis de Datos
 
+### 📊 **Model Fitness - Estrategia de Retención de Clientes**
+
+**Descripción:**  
+Este proyecto se enfoca en desarrollar un modelo predictivo para anticipar la cancelación de membresías en Model Fitness, una cadena de gimnasios. A través del análisis de datos de clientes, como demografía, frecuencia de visitas, y gastos adicionales, se construyeron modelos de clasificación para identificar a los clientes con mayor riesgo de cancelar su membresía. Las principales herramientas utilizadas fueron Python, Pandas y Scikit-learn, y se emplearon modelos como la Regresión Logística, Árboles de Decisión y Bosques Aleatorios, obteniendo un 91.6% de exactitud en la predicción.
+
+**Objetivos:**
+- Predecir la pérdida de clientes (churn).
+- Identificar factores que afectan la retención.
+- Proponer estrategias personalizadas de retención.
+
+🔗 [Ver Proyecto en GitHub](https://github.com/jajt19/Model-Fitness)
+
+
 **Optimización de Marketing para Showz**  
 *Descripción:* Análisis de datos de visitas, pedidos y gastos de marketing de la plataforma Showz. Se identificaron las plataformas más efectivas y se generaron recomendaciones para maximizar el retorno de inversión (ROI).  
 *Principales Métricas Calculadas:* Tasa de conversión y costo por adquisición (CAC). Análisis de retención y fidelización de usuarios. Valor de tiempo de vida del cliente (LTV).  
