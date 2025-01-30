@@ -2,7 +2,7 @@
 **Analista de Datos | Ingeniero Petrolero**
 <!-- Banner creativo de bienvenida -->
 <div align="center">
- <img src="https://img.shields.io/badge/Explotaci%C3%B3n%20de%20Datos%20en%20la%20Industria%20Petrolera%20%26%20Energ%C3%A9tica-FFD700?style=flat&logo=industry&logoColor=black" alt="Banner de datos y energía" width="800"/>
+ <img src="https://img.shields.io/badge/Analista%20de%20Datos%20%7C%20Optimización%20de%20Procesos%20%7C%20Ciencia%20de%20Datos-4CAF50?style=flat&logo=analytics&logoColor=white" alt="Banner de analista de datos" width="800"/>
 </div>
 
 <h2 align="center">
