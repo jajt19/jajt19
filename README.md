@@ -21,9 +21,20 @@
 </p>
 
 
-Soy un apasionado Ingeniero Petrolero con experiencia en la industria de petróleo y gas, especializado en técnicas avanzadas para la extracción de crudo pesado. He adquirido sólidos conocimientos en ingeniería operativa y coordinación de producción, enfocándome en la Recuperación Mejorada de Petróleo (EOR), especialmente mediante Calefacción por Inducción Electromagnética. Esta experiencia me ha llevado a comprender la importancia del análisis de datos en la optimización de operaciones energéticas.
+Soy un **Analista de Datos apasionado por transformar información en decisiones estratégicas**. Mi enfoque está en la exploración de datos, el modelado estadístico y la optimización de procesos para mejorar la eficiencia y el rendimiento en diversos sectores.  
 
-🔍 Me encuentro perfeccionando mis habilidades en análisis de datos, utilizando herramientas de programación y análisis para extraer patrones y tendencias en grandes volúmenes de datos, con el objetivo de aportar soluciones estratégicas al sector energético.
+## 📊 ¿Qué hago?  
+✔ Extraigo, limpio y analizo grandes volúmenes de datos para identificar tendencias y oportunidades de mejora.  
+✔ Aplico **Python, SQL y herramientas de visualización (Tableau, Power BI, Matplotlib, Seaborn)** para generar insights accionables.  
+✔ Implemento modelos predictivos y técnicas estadísticas para optimizar estrategias y potenciar la toma de decisiones.  
+
+## 🚀 Mi misión  
+Aprovechar el poder de los datos para **impulsar el crecimiento empresarial, mejorar la eficiencia operativa y desarrollar estrategias basadas en evidencia**. Siempre estoy explorando nuevas tecnologías y metodologías para ofrecer soluciones innovadoras.  
+
+## 🎯 Experiencia en sectores  
+
+## 🔎 Antecedente técnico  
+Con formación en **Ingeniería de Petróleos**, he trabajado en sectores industriales donde el análisis de datos es clave para optimizar operaciones y mejorar procesos.  
 
 🚀 Intereses: Me apasiona el poder de los datos y cómo pueden transformar la toma de decisiones en la industria. Estoy siempre en busca de nuevas oportunidades para aplicar mis habilidades y contribuir a la innovación en el sector energético. ¡Conectemos!
 
