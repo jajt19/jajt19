@@ -6,12 +6,12 @@
 </div>
 
 <h2 align="center">
-  Revolucionando la Explotación de Datos en la Industria Petrolera y Energética
+  Impulsando la toma de decisiones estratégicas a través del análisis de datos para optimizar procesos en la industria energética y más allá.
 </h2>
 
 <p align="center">
   Soy Jorge Jaime - <em>Analista de Datos | Ingeniero Petrolero</em><br>
-  Impulsando la eficiencia energética mediante la ciencia de datos y la innovación tecnológica.
+  Impulsando la eficiencia y la toma de decisiones estratégicas mediante la ciencia de datos y la innovación tecnológica.
 </p>
 
 <p align="center">
