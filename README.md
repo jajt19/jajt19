@@ -2,9 +2,8 @@
 **Analista de Datos | Ingeniero Petrolero**
 <!-- Banner creativo de bienvenida -->
 <div align="center">
- <img src="https://img.shields.io/badge/Transformando%20Datos%20en%20Decisiones%20Estrat%C3%A9gicas%20%7C%20Optimización%20Operativa-00BFFF?style=flat&logo=data%20analytics&logoColor=white" alt="Banner de analista de datos" width="800"/>
+ <img src="https://img.shields.io/badge/Impulsando%20Eficiencia%20y%20Decisiones%20Estrat%C3%A9gicas%20con%20Datos-FFD700?style=flat&logo=analytics&logoColor=black" alt="Banner de analista de datos" width="800"/>
 </div>
-
 
 <h2 align="center">
   Impulsando la toma de decisiones estratégicas a través del análisis de datos para optimizar procesos en la industria energética y más allá.
