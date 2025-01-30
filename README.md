@@ -1,5 +1,5 @@
 **👋 ¡Hola! Soy Jorge Jaime**  
-**Analista de Datos **
+**Analista de Datos**
 <!-- Banner creativo de bienvenida -->
 <div align="center">
  <img src="https://img.shields.io/badge/Impulsando%20Eficiencia%20y%20Decisiones%20Estrat%C3%A9gicas%20con%20Datos-FFD700?style=flat&logo=analytics&logoColor=black" alt="Banner de analista de datos" width="800"/>
