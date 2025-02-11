@@ -39,10 +39,22 @@ Con formación en **Ingeniería de Petróleos**, he trabajado en sectores indust
 🚀 Intereses: Me apasiona el poder de los datos y cómo pueden transformar la toma de decisiones en la industria. Estoy siempre en busca de nuevas oportunidades para aplicar mis habilidades y contribuir a la innovación en el sector energético. ¡Conectemos!
 
 ---
+### 📊 Metrics Overview  
 
-### 📊 Metrics Overview
+#### 🚀 Proyectos de Análisis de Datos  
 
-#### 🚀 Proyectos de Análisis de Datos
+### 📊 **Análisis de Comportamiento de Compras en un E-commerce**  
+
+**Descripción:**  
+Este proyecto analiza datos de ventas de un e-commerce para identificar patrones de compra, optimizar inventarios y mejorar estrategias comerciales. A través del análisis exploratorio de datos (EDA), se examinaron las tendencias de compra, la distribución de ingresos por país y la segmentación de clientes. Se aplicaron herramientas como Python, Pandas y Seaborn para visualizar insights clave y tomar decisiones basadas en datos.  
+
+**Objetivos:**  
+- Identificar los países con mayores ventas e ingresos.  
+- Analizar tendencias de compra para optimizar inventarios.  
+- Segmentar clientes y personalizar estrategias de marketing.  
+
+🔗 [Ver Proyecto en GitHub](https://github.com/jajt19/An-lisis-de-Comportamiento-de-Compras-en-un-E-commerce-)  
+
 
 ### 📊 **Model Fitness - Estrategia de Retención de Clientes**
 
